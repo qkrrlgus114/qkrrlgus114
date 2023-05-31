@@ -13,11 +13,12 @@
 ### 🔥Back-end🔥
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
+<br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qkrrlgus114&layout=compact"><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=qkrrlgus114&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qkrrlgus114&theme=graywhite&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=qkrrlgus114&theme=graywhite&show_icons=true">
 
-### ⬛algorithm⬛
+### 👑algorithm👑
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=qkrrlgus114)](https://solved.ac/{handle})
 
