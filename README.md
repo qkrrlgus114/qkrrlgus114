@@ -23,4 +23,7 @@
 
 ### tistory blog
 https://qkrqkrrlrl.tistory.com/
-  </div>
+  
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fqkrrlgus114%2Fhit-counter&count_bg=%236C8AD1&title_bg=%23000000&icon=github.svg&icon_color=%23E1CCCC&title=Welcome&edge_flat=false)](https://hits.seeyoufarm.com)
+</div>
