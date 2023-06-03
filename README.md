@@ -2,6 +2,9 @@
 <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=백엔드를%20개발자를%20희망하는%20박기현입니다.&fontSize=30" />
 </br>
 
+코딩 개발자 진로 변경 2023.01.02 ~ ing
+싸피9기(백엔드) 2023.01.02 ~ ing
+
 ### 🔥Front-end🔥
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
