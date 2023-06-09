@@ -6,15 +6,17 @@
 <h4>싸피9기(백엔드) 2023.01.02 ~ ing</h4>
 </br>
 
-### 🔥Front-end🔥
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
-  
-### 🔥Back-end🔥
+### 🔥Back-end(Main-Tech)🔥
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
-<br><br>
+
+
+### 🔥Front-end🔥
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
+</br></br>
+
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qkrrlgus114&theme=graywhite&layout=compact"><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=qkrrlgus114&theme=graywhite&show_icons=true">
