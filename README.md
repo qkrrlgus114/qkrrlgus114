@@ -2,8 +2,8 @@
 <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=백엔드를%20개발자를%20희망하는%20박기현입니다.&fontSize=30" />
 </br>
 
-<h4>백엔드 개발자 진로 변경 2023.01.02 ~ ing</h4>
-<h4>싸피9기(백엔드) 2023.01.02 ~ ing</h4>
+<h4>백엔드 개발자 진로 변경 2023.01.04 ~ ing</h4>
+<h4>싸피9기(백엔드) 2023.01.04 ~ ing</h4>
 </br>
 
 ### 🔥Back-end(Main-Tech)🔥
