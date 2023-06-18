@@ -23,7 +23,7 @@
 
 ### 👑algorithm👑
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=qkrrlgus114)](https://solved.ac/{handle})
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=qkrrlgus9)](https://solved.ac/{handle})
 
 ### tistory blog
 https://qkrqkrrlrl.tistory.com/
