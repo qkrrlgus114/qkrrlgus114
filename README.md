@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=백엔드를%20개발자를%20희망하는%20박기현입니다.&fontSize=30" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=백엔드%20개발자를%20희망하는%20박기현입니다.&fontSize=30" />
 </br>
 
 <h4>백엔드 개발자 진로 변경 2023.01.04 ~ ing</h4>
