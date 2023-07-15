@@ -27,7 +27,7 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=qkrrlgus9797)](https://solved.ac/{handle})
 
-### tistory blog
+### tistory blog 
 https://qkrqkrrlrl.tistory.com/
   
 
