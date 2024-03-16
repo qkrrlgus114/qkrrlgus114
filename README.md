@@ -4,11 +4,11 @@
 
 ### 📞 Contact Me
 
-|      |                           |
-|------|---------------------------|
-| 📱   | **Phone**: `010-8615-6570` |
-| 📧   | **Email**: [qkrrlgus9797@gmail.com](mailto:qkrrlgus9797@gmail.com) |
-| 🌐   | **Blog**: [Visit my Tistory](https://qkrqkrrlrl.tistory.com/) |
+<table>
+<tr><td>📱 Phone</td><td>010-8615-6570</td></tr>
+<tr><td>📧 Email</td><td><a href="mailto:qkrrlgus9797@gmail.com">qkrrlgus9797@gmail.com</a></td></tr>
+<tr><td>🌐 Blog</td><td><a href="https://qkrqkrrlrl.tistory.com/" target="_blank">Visit my Tistory</a></td></tr>
+</table>
 <br/>
 
 ---
