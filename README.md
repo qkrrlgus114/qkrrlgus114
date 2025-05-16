@@ -1,5 +1,10 @@
 <div>
 
+
+## 던파파워(자체 운영 서비스)
+- <a href = "https://dnf-power.com/">던파 파워(마법부여, 소울가격 검색 사이트)</a>
+- [2025-05-15] 서비스 시작
+
 ### Blog
 - <a href="https://qkrqkrrlrl.tistory.com/192">크롬을 다중 세션으로 이용하기</a>
 <br/>
